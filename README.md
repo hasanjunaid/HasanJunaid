@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hasanjunaid
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front end development
 - 💞️ I’m looking to persue my career as a full stack web developer
 - 📫 Reach me at mhasanjunaid07@gmail.com
