@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hasanjunaid
+- 👋 Hi, I’m Muhammad Hasan Junaid
 - 👀 I’m interested in web development
 - 💞️ I’m looking to persue my career as a full stack web developer
 - 📫 Reach me at mhasanjunaid07@gmail.com
