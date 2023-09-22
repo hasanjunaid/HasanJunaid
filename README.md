@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanjunaid&label=Profile%20views&color=0e75b6&style=flat" alt="hasanjunaid" /> </p>
 
-- 🔭 I’m currently working on **NextJS projects**
+- 🔭 I’m currently working on **ReactJS Projects**
 
-- 🌱 I’m currently learning **backend frameworks**
+- 🌱 I’m currently learning **Backend frameworks**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **Open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hasanjunaid?tab=repositories](https://github.com/hasanjunaid?tab=repositories)
 
