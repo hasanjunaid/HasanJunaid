@@ -1,4 +1,3 @@
-::: {align="center"}
 # Muhammad Hasan Junaid
 
 ### GRC Analyst \| Cybersecurity Professional
@@ -8,14 +7,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-hasan-junaid-3b668122b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/hasanjunaid)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mhasanjunaid08@gmail.com)
-:::
+
 
 ------------------------------------------------------------------------
 
 ## About Me
 
-I am a **GRC-focused cybersecurity professional** and Software
-Engineering student at **Technische Universität Ilmenau, Germany**. My
+I am a **GRC-focused cybersecurity professional** and MSc in Research in Computer and Systems Engineering student at **Technische Universität Ilmenau, Germany**. My
 professional interests and experience center on Governance, Risk, and
 Compliance, information security, and audit readiness.
 
@@ -51,15 +49,6 @@ primary career focus is GRC and cybersecurity.
     governance practices
 
 ## GRC Platforms & Tools
-
-```{=html}
-<p>
-```
-`<img src="https://img.shields.io/badge/Drata-GRC-2563EB?style=flat" alt="Drata" />`{=html}
-`<img src="https://img.shields.io/badge/Vanta-GRC-2563EB?style=flat" alt="Vanta" />`{=html}
-```{=html}
-</p>
-```
 -   Drata
 -   Vanta
 
@@ -100,18 +89,9 @@ production-ready product.
 ## Education
 
 **Technische Universität Ilmenau**\
-Software Engineering\
+MSc in Research in Computer and Systems Engineering\
 Ilmenau, Germany\
 Currently studying
-
-## Certification Preparation
-
-**ISC2 Certified in Cybersecurity (CC)**\
-Status: Preparing
-
-Currently preparing for the ISC2 Certified in Cybersecurity
-certification to strengthen my foundational knowledge of cybersecurity
-concepts and information security practices.
 
 ## Professional Interests
 
@@ -131,6 +111,4 @@ concepts and information security practices.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 **Securing Systems. Strengthening Compliance. Managing Risk.**
-:::
