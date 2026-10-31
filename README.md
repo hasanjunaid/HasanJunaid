@@ -1,149 +1,136 @@
+::: {align="center"}
 # Muhammad Hasan Junaid
 
 ### GRC Analyst \| Cybersecurity Professional
 
-**Governance, Risk & Compliance · Information Security · SOC 2**
+**Securing Systems. Strengthening Compliance. Managing Risk.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hasan-junaid-3b668122b/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasanjunaid)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhasanjunaid08@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-hasan-junaid-3b668122b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/hasanjunaid)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mhasanjunaid08@gmail.com)
+:::
 
 ------------------------------------------------------------------------
 
 ## About Me
 
-I am a **GRC Analyst and Cybersecurity professional** with a technical
-foundation in Software Engineering. I am currently studying at
-**Technische Universität Ilmenau, Germany**, and focusing my
-professional development on information security, security governance,
-risk management, and compliance.
+I am a **GRC-focused cybersecurity professional** and Software
+Engineering student at **Technische Universität Ilmenau, Germany**. My
+professional interests and experience center on Governance, Risk, and
+Compliance, information security, and audit readiness.
 
-My work in GRC includes reviewing security evidence, assessing policies
-and internal controls, mapping control requirements to the **AICPA Trust
-Services Criteria**, identifying documentation gaps, and supporting
-**SOC 2 Type I and Type II audit-readiness activities**.
+My work includes reviewing security evidence, evaluating policies and
+controls, supporting SOC 2 compliance assessments, and mapping control
+requirements to the **AICPA Trust Services Criteria (TSC)**. I have
+experience working with GRC platforms such as **Drata** and **Vanta**,
+including reviewing automated control tests and identifying evidence
+gaps.
 
-I have worked with compliance workflows and platforms such as **Drata**
-and **Vanta**. My software engineering background also helps me
-understand the applications, systems, databases, and technical
-environments that security controls are intended to protect.
-
-I am interested in practical, evidence-based security and compliance
-processes that help organizations understand their risks, strengthen
-controls, and prepare for assessments.
+My software engineering studies provide a technical foundation for
+understanding IT systems, applications, and security requirements. My
+primary career focus is GRC and cybersecurity.
 
 ## Areas of Focus
 
--   **GRC and Compliance:** SOC 2, AICPA Trust Services Criteria,
-    control assessments, audit readiness, compliance documentation.
--   **Security Evidence and Controls:** Evidence review, policy review,
-    access reviews, vulnerability-management evidence, control-gap
-    identification.
--   **Risk Management:** Information security risks, risk assessment
-    documentation, control weaknesses, remediation considerations.
--   **Cybersecurity:** Information security, security governance,
-    identity and access management, vulnerability management,
-    cloud-security fundamentals.
--   **GRC Platforms:** Drata and Vanta.
+-   **SOC 2:** Type I and Type II assessment support
+-   **Trust Services Criteria:** Control requirements and evidence
+    mapping
+-   **Control Assessments:** Reviewing control design, implementation,
+    and supporting evidence
+-   **Security Evidence:** Evidence review, validation, and gap
+    identification
+-   **Audit Readiness:** Documentation and preparation support
+-   **Policies & Procedures:** Information security policy review
+-   **Risk Management:** Risk assessment documentation and remediation
+    tracking
+-   **Identity & Access Management:** Access control evidence and access
+    reviews
+-   **Vulnerability Management:** Reviewing vulnerability-management
+    evidence
+-   **Security Governance:** Information security controls and
+    governance practices
 
-## Technical Background
+## GRC Platforms & Tools
 
-My technical background supports my work in cybersecurity and GRC.
-Technologies and tools I have worked with or studied include:
+```{=html}
+<p>
+```
+`<img src="https://img.shields.io/badge/Drata-GRC-2563EB?style=flat" alt="Drata" />`{=html}
+`<img src="https://img.shields.io/badge/Vanta-GRC-2563EB?style=flat" alt="Vanta" />`{=html}
+```{=html}
+</p>
+```
+-   Drata
+-   Vanta
 
-  -----------------------------------------------------------------------
-  Area                                Technologies
-  ----------------------------------- -----------------------------------
-  Programming                         JavaScript, Python, C#, Java
+## Cybersecurity & Technical Foundation
 
-  Frontend                            React, Next.js, HTML, CSS, Tailwind
-                                      CSS, Bootstrap
+My technical background supports my understanding of systems and
+security requirements. The technologies below represent areas of
+academic, project, or practical exposure; they do not imply equal
+proficiency across all tools.
 
-  Backend                             Node.js, Express.js, ASP.NET,
-                                      Django, Flask
+**Operating Systems & Fundamentals** - Windows - Linux fundamentals -
+Networking and IT fundamentals
 
-  Databases                           MongoDB, Microsoft SQL Server,
-                                      MySQL, PostgreSQL, Firebase
+**Scripting & Programming** - Python - JavaScript
 
-  Mobile                              Flutter, Android
+**Platforms & Development Technologies** - Git and GitHub - SQL and
+database fundamentals - Web application technologies
 
-  Tools and environments              Git, GitHub, Postman, Figma,
-                                      Windows, Linux fundamentals
-  -----------------------------------------------------------------------
-
-This list represents my broader technical background; it does not imply
-equal proficiency in every technology.
-
-## Selected Projects
+## Relevant Project
 
 ### Compliance Auditor Platform --- Ongoing
 
-An application concept focused on improving SOC 2 evidence-review and
-compliance-assessment workflows. The planned workflow includes control
-management, evidence matching, assessment statuses, and support for
-multiple compliance frameworks.
+A project concept in development to streamline SOC 2 evidence reviews
+and control assessments.
 
-### Product Scout
+Planned capabilities include: - Organizing SOC 2 controls and assessment
+requirements - Matching uploaded evidence to relevant controls -
+Tracking assessment statuses and reviewer progress - Supporting
+framework-specific control management - Helping reviewers identify
+missing or potentially relevant evidence
 
-A software development project focused on product discovery and
-comparison.
+**Planned technology stack:** Next.js, TypeScript, Tailwind CSS,
+Supabase.
 
-### Memo Stack
-
-A note-taking application built with React and Firebase.
-
-### SHADOWFALL
-
-A gaming-related website project exploring frontend development and
-interactive web design.
-
-### Tenzies
-
-An interactive dice game built with React.
-
-More projects are available in my [GitHub
-repositories](https://github.com/hasanjunaid?tab=repositories).
+The platform is ongoing and should not be considered a completed or
+production-ready product.
 
 ## Education
 
-**Technische Universität Ilmenau --- Germany**\
-Software Engineering studies.
+**Technische Universität Ilmenau**\
+Software Engineering\
+Ilmenau, Germany\
+Currently studying
 
-## Professional Development
+## Certification Preparation
 
--   **ISC2 Certified in Cybersecurity (CC):** Preparing.
+**ISC2 Certified in Cybersecurity (CC)**\
+Status: Preparing
 
-*Certifications are listed as completed only after they have been
-earned.*
+Currently preparing for the ISC2 Certified in Cybersecurity
+certification to strengthen my foundational knowledge of cybersecurity
+concepts and information security practices.
 
-## Connect
+## Professional Interests
 
-I am interested in professional opportunities and conversations related
-to GRC, cybersecurity, information security, SOC 2, and risk management.
+-   Governance, Risk, and Compliance (GRC)
+-   SOC 2 compliance and audit readiness
+-   Information security governance
+-   Cybersecurity risk management
+-   Security controls and evidence evaluation
+-   Compliance frameworks and continuous improvement
 
--   **LinkedIn:**
-    [muhammad-hasan-junaid-3b668122b](https://www.linkedin.com/in/muhammad-hasan-junaid-3b668122b/)
--   **GitHub:** [hasanjunaid](https://github.com/hasanjunaid)
+## Contact
+
 -   **Email:** <mhasanjunaid08@gmail.com>
+-   **LinkedIn:**
+    [linkedin.com/in/muhammad-hasan-junaid-3b668122b](https://www.linkedin.com/in/muhammad-hasan-junaid-3b668122b/)
+-   **GitHub:** [github.com/hasanjunaid](https://github.com/hasanjunaid)
 
 ------------------------------------------------------------------------
 
 ::: {align="center"}
 **Securing Systems. Strengthening Compliance. Managing Risk.**
-:::
-
-------------------------------------------------------------------------
-
-## GitHub Activity
-
-::: {align="center"}
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=hasanjunaid&show_icons=true&theme=default&hide_border=true)
-
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanjunaid&layout=compact&theme=default&hide_border=true)
-
-![GitHub
-Streak](https://streak-stats.demolab.com?user=hasanjunaid&theme=default&hide_border=true)
 :::
