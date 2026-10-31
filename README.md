@@ -1,4 +1,3 @@
-::: {align="center"}
 # Muhammad Hasan Junaid
 
 ### GRC Analyst \| Cybersecurity Professional
